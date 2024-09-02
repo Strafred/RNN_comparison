@@ -1,0 +1,10 @@
+Time train started: Mon Sep  2 15:03:12 2024
+Time taken to train: 21 min 58 sec
+Time predict started: Mon Sep  2 15:25:09 2024
+Time taken to predict: 0 min 2 sec
+
+мой дядя вечера:
+бесегги надежды мне - и разлита;
+в деревне, где с ачесть охоты!
+как предуша сопесять,
+перес

@@ -1,0 +1,9 @@
+Time train started: Sun Sep  1 03:02:55 2024
+Time taken to train: 0 min 27 sec
+Time predict started: Sun Sep  1 03:03:22 2024
+Time taken to predict: 0 min 0 sec
+
+мой дядяль,
+ча ты возладе, егумо свохик мелезмая
+и мамут омроваяне,
+и к удрай краснатья кать замиломой преще

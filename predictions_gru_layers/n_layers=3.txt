@@ -1,0 +1,10 @@
+Time train started: Sun Sep  1 04:52:22 2024
+Time taken to train: 29 min 21 sec
+Time predict started: Sun Sep  1 05:21:43 2024
+Time taken to predict: 0 min 0 sec
+
+мой дядя любовь отвсюду,
+когда ж беде славой шатрость;
+ускоряет же столовой!..
+тако имели в своей душой...
+-

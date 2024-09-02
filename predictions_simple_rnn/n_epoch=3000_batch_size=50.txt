@@ -1,0 +1,7 @@
+Time train started: Sat Aug 31 18:38:33 2024
+Time taken to train: 11 min 12 sec
+Time predict started: Sat Aug 31 18:49:45 2024
+Time taken to predict: 0 min 0 sec
+
+мой дядя сердечнушей,
+ним русска, в вачень сморно, веков. призлам. позравлять оставил привый сомно, бедасть.

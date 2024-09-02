@@ -1,0 +1,9 @@
+Time train started: Sun Sep  1 01:51:46 2024
+Time taken to train: 0 min 45 sec
+Time predict started: Sun Sep  1 01:52:31 2024
+Time taken to predict: 0 min 0 sec
+
+мой дядяленибый
+киной: продася,
+таме;
+но им клань жецкею полизны!, в вдритвым за срадсивь сейства совегое пл

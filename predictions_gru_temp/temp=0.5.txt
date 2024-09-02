@@ -1,0 +1,11 @@
+Time train started: Sun Sep  1 21:15:14 2024
+Time taken to train: 30 min 22 sec
+Time predict started: Sun Sep  1 21:45:37 2024
+Time taken to predict: 0 min 2 sec
+
+мой дядя;
+что святом упоренье?
+увы, тучи чудакожать,
+все невеченье согласа
+когда бы ней нам желала неды,
+мгн

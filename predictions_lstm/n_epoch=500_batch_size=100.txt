@@ -1,0 +1,11 @@
+Time train started: Sun Sep  1 01:55:21 2024
+Time taken to train: 4 min 56 sec
+Time predict started: Sun Sep  1 02:00:17 2024
+Time taken to predict: 0 min 0 sec
+
+мой дядя?
+он и зим, распятя шути;
+с юнонку их вечер.
+еще чуденье, и вней
+шлоб вахный, ленить
+с своей пофти в

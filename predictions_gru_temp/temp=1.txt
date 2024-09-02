@@ -1,0 +1,10 @@
+Time train started: Sun Sep  1 21:45:39 2024
+Time taken to train: 994 min 8 sec
+Time predict started: Mon Sep  2 14:19:47 2024
+Time taken to predict: 0 min 2 sec
+
+мой дядя невозволенный мой
+и душе мне прием и строфа
+хранить напаршин очь и мень
+я сосед овят стольше,
+на ле
